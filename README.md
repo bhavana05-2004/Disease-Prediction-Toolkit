@@ -26,10 +26,12 @@ Precision, Recall, F1-score evaluated
 Confusion Matrix visualization
 
 <img width="570" height="435" alt="download" src="https://github.com/user-attachments/assets/743c4ec6-768c-4672-9096-f056dd6f5e82" />
+
 <img width="530" height="455" alt="image" src="https://github.com/user-attachments/assets/7bd8a223-e6d7-4af5-8cf2-9dd1ba4ac9a5" />
 
 Test Data:
 [heart_dataset.csv](https://github.com/user-attachments/files/22029991/heart_dataset.csv)
+
 age,trestbps,chol,fbs,restecg,thalch,exang,oldpeak,slope,ca,thal,sex_Female,sex_Male,cp_asymptomatic,cp_atypical angina,cp_non-anginal,cp_typical angina
 58,130,220,1,normal,150,False,1.4,flat,0,fixed defect,0,1,0,0,0,1
 67,160,276,0,lv hypertrophy,108,True,1.5,flat,3,normal,0,1,1,0,0,0
